@@ -5,7 +5,9 @@
     <a href="https://developer.apple.com/metal/"><img src="https://img.shields.io/badge/SwiftUI-2.0-green.svg" alt="SwiftUI 2.0" /></a>
     <a href="https://apps.apple.com/ru/app/swift-playgrounds/id908519492?l=en"><img src="https://img.shields.io/badge/SwiftPlaygrounds-3.4.1-orange.svg" alt="Swift Playgrounds 3" /></a>
    <a href="https://en.wikipedia.org/wiki/MIT_License"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
-    
+<p align="center">
+   <img src="assets/FullSizeRender.mov" alt="Metal Logo & Name"/>
+</p>    
 </p>
 A basic onscreen joystick implemented as a `struct` conforming to `View` protocol.
 It comes with an example of how it may be used in a SwiftUI layout.
