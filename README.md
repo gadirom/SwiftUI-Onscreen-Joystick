@@ -1,4 +1,4 @@
-# SwiftUI-Onscreen-Joystick
+# Onscreen Joystick for SwiftUI
 <p align="center">
     <img src="https://img.shields.io/badge/platforms-iOS_14_-blue.svg" alt="iPadOS" />
     <a href="https://swift.org/about/#swiftorg-and-open-source"><img src="https://img.shields.io/badge/Swift-5.3-orange.svg" alt="Swift 5.3" /></a>
